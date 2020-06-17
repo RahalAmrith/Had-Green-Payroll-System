@@ -1,0 +1,14 @@
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\bin\Debug\Payroll_System_HADGreen_pvt.exe
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\bin\Debug\Payroll_System_HADGreen_pvt.pdb
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.csprojAssemblyReference.cache
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.Properties.Resources.resources
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.csproj.GenerateResource.cache
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.csproj.CoreCompileInputs.cache
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.exe
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.pdb
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.mainFrm.resources
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.frmEmpMgmt.resources
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.InpData.resources
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.frmSalSheat.resources
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.frmReports.resources
+D:\Vissual Studio\C#\Payroll_System_HADGreen_pvt\Payroll_System_HADGreen_pvt\obj\Debug\Payroll_System_HADGreen_pvt.frmReporViewer.resources
